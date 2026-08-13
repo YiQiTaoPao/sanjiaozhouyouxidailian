@@ -49,6 +49,9 @@
 ## 💡 说明
 
 欢迎 Star 收藏，有功能优化需求可提交 Issue。支持二次定制开发，商用使用请遵守相关法律法规。
+<img width="1748" height="2162" alt="image" src="https://github.com/user-attachments/assets/27e34a42-0d45-4bc2-9818-f36e6e6a3882" />
+<img width="960" height="527" alt="image" src="https://github.com/user-attachments/assets/4d03ff39-cf7f-486d-8f8b-6063457e4bb5" />
+
 
 
 
@@ -107,15 +110,16 @@ http://域名/admin
 默认账号：admin 密码：123456
 
  ### 前端页面展示
-
-
-![输入图片说明](https://www.51duoke.cn/quanzi/dailian/1.jpg)
-
-
+<img width="800" height="1424" alt="image" src="https://github.com/user-attachments/assets/7a807c4e-9bd4-47ae-bc89-09541816e067" />
 
 
 
 ### 后端部分页面展示
+<img width="1851" height="903" alt="image" src="https://github.com/user-attachments/assets/48725b4d-4f71-4d5d-8c54-21bb4b7e8abe" />
+<img width="1903" height="905" alt="image" src="https://github.com/user-attachments/assets/b84f736b-a9b3-44a0-a7cf-fdca04518df3" />
+<img width="1890" height="908" alt="image" src="https://github.com/user-attachments/assets/f5e4d7f0-8326-4334-a3e8-43ff6466a92b" />
+<img width="1911" height="923" alt="image" src="https://github.com/user-attachments/assets/36ae44a3-f6e6-4707-8c5a-0b1b9b05d63b" />
+<img width="1920" height="908" alt="image" src="https://github.com/user-attachments/assets/121bd043-8ed1-4b6c-8b79-dfc5b57437e0" />
 
 
 
@@ -127,6 +131,7 @@ http://域名/admin
 
 -----------------------------------------------------
 
+<img width="960" height="527" alt="image" src="https://github.com/user-attachments/assets/4d03ff39-cf7f-486d-8f8b-6063457e4bb5" />
 
 
 
