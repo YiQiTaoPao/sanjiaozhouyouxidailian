@@ -51,20 +51,6 @@
 欢迎 Star 收藏，有功能优化需求可提交 Issue。支持二次定制开发，商用使用请遵守相关法律法规。
 
 
- ![输入图片说明](http://www.51duoke.cn/quanzi/dailian/naotu.png)
-
-
- ![输入图片说明](https://www.51duoke.cn/quanzi/dailian/qun.png)
-
-
-
-前后端+后端下载地址：https://gitee.com/zhangshangshidai/dailianhuhang
-
-演示地址:https://dailian.demo.51duoke.cn/h5
-
-后端体验：https://dailian.demo.51duoke.cn/admin
-
-账号admin  密码123456
 
 后端程序目录
 ===============
@@ -130,20 +116,6 @@ http://域名/admin
 
 
 ### 后端部分页面展示
-![输入图片说明](http://www.51duoke.cn/quanzi/dailian/admin1.png)
-![输入图片说明](http://www.51duoke.cn/quanzi/dailian/admin2.png)
-![输入图片说明](http://www.51duoke.cn/quanzi/dailian/admin3.png)
-![输入图片说明](http://www.51duoke.cn/quanzi/dailian/admin4.png)
-![输入图片说明](http://www.51duoke.cn/quanzi/dailian/admin5.png)
-
-
-## 文档
-
-[TP6开发手册](https://www.kancloud.cn/manual/thinkphp6_0/content)
-
-[uniapp开发手册](https://uniapp.dcloud.net.cn/)
-
- ![输入图片说明](https://www.51duoke.cn/quanzi/dailian/qun.png)
 
 
 
@@ -176,7 +148,7 @@ http://域名/admin
 
 ## 版权信息
 
-版权所有Copyright © 2016-2026 by 四川掌上时代科技有限公司旗下多客开源事业部 (http://www.51duoke.cn)
+版权所有Copyright © 2016-2026 by 四川掌上时代科技有限公司旗下多客开源事业部 
 
 All rights reserved。
 
